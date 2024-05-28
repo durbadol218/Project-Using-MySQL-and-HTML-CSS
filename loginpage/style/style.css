@@ -87,20 +87,14 @@ body{
 }
 
 .links-forgot{
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     display:flex;
-    justify-content: center;
     flex-direction: row;
-    margin-top: 30px;
-}
-
-.links-forgot span a{
-    color:rgb(75, 128, 0) !important;
-    text-decoration: none !important;
+    margin-top: 10px;
 }
 
 .forgot{
-    color:teal;
+    color:tomato;
     text-decoration: none;
 }
 
